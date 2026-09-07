@@ -235,3 +235,6 @@ This repository serves as the official landing page for Better DS3. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Better DS3 today!**
+
+---
+**Last updated:** 2026-09-07 18:07:10 UTC

@@ -237,4 +237,4 @@ This repository serves as the official landing page for Better DS3. The software
 **Get the most recent version of Better DS3 today!**
 
 ---
-**Last updated:** 2026-09-08 09:22:59 UTC
+**Last updated:** 2026-09-08 14:09:55 UTC
